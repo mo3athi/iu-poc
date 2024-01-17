@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  iu-poc-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-17T16:01:07.064586+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a34f0ecc9a77b69834ffe5d3c655d49c859a93ecb53a2f95e4cfc865ad2047d4
+    name: iu-poc-chart
+    type: application
+    urls:
+    - iu-poc-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-17T16:01:07.06418+01:00"
